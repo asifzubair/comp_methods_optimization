@@ -1,2 +1,1 @@
-# comp_methods_optimization
-Computational Methods for Optimization
+## Computational Methods for Optimization ##
